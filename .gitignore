@@ -1,0 +1,22 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 安装产生的文件
+*.egg-info/
+build/
+dist/
+
+# 虚拟环境
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 系统/编辑器文件
+.DS_Store
+.vscode/
+
+# 敏感信息
+.env
